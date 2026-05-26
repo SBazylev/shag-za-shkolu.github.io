@@ -1473,6 +1473,11 @@ a {
   display: flex;
   margin: auto;
 }
+@media (min-width: 992px) {
+  .cid-vjAZBLHHAD .container {
+    flex-wrap: nowrap;
+  }
+}
 .cid-vjAZBLHHAD .iconfont-wrapper {
   color: #000000 !important;
   font-size: 1.5rem;
